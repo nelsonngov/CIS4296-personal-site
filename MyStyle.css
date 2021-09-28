@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #001f3f;
+    overflow-x: hidden;
+    height: auto;
+    font-family: 'Agency FB';
+    color: ghostwhite;
+    text-align: center;
+}
+
+#whoami,#home,#landing,#projects,#courses,#contact{
+    padding-top: 55px;
+}
+#home{
+    margin-top:40px;
+}
+#wordcontainer {
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+#piccontainer {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#profile {
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+}
+
+#angkor {
+    object-fit: cover;
+    width: 450px;
+    height: 550px;
+}
